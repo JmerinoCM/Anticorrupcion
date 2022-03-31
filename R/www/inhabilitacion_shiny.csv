@@ -1,0 +1,597 @@
+,autoridadSancionadora,sancion,causa,dependencia,genero,puesto,inhabilitacion,value
+0,Contraloría Interna,INHABILITADO,TRÁFICO DE INFLUENCIAS,Energía,Mujer,Jefe de departamento,6.0,1
+1,Tribunal,INHABILITADO,ENRIQUECIMIENTO OCULTO,Energía,Hombre,Jefe de departamento,2.0,1
+2,Organo de Control Interno,SUSPENSION,TRÁFICO DE INFLUENCIAS,Energía,Hombre,Jefe de departamento,6.0,1
+3,Tribunal,INHABILITADO,NEPOTISMO,Energía,Mujer,Jefe de departamento,4.0,1
+4,OIC,INHABILITADO,DESVÍO DE RECURSOS PÚBLICOS,Energía,Mujer,Jefe de departamento,6.0,1
+5,Tribunal,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Energía,Mujer,Jefe de departamento,3.0,1
+6,Tribunal,SUSPENSION,DESVÍO DE RECURSOS PÚBLICOS,Energía,Hombre,Jefe de departamento,10.0,1
+7,Organo de Control Interno,DESTITUCION,CONTRATACIÓN INDEBIDA,Energía,Mujer,Jefe de departamento,2.0,1
+8,Contraloría Interna,INHABILITADO,CONFLICTO DE INTERÉS,Energía,Mujer,Jefe de departamento,9.0,1
+9,OIC,SUSPENSION,CONFLICTO DE INTERÉS,Energía,Mujer,Jefe de departamento,9.0,1
+10,OIC,SUSPENSION,TRÁFICO DE INFLUENCIAS,Energía,Mujer,Jefe de departamento,6.0,1
+11,OIC,DESTITUCION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Energía,Hombre,Jefe de departamento,3.0,1
+12,Contraloría Interna,SUSPENSION,COHECHO,Energía,Hombre,Jefe de departamento,6.0,1
+13,Contraloría Interna,SUSPENSION,PECULADO,Energía,Hombre,Jefe de departamento,2.0,1
+14,Contraloría Interna,SUSPENSION,DESVÍO DE RECURSOS PÚBLICOS,Energía,Mujer,Jefe de departamento,6.0,1
+15,Contraloría Interna,INHABILITADO,TRÁFICO DE INFLUENCIAS,Energía,Hombre,Jefe de departamento,5.0,1
+16,Tribunal,DESTITUCION,NEPOTISMO,Energía,Mujer,Jefe de departamento,7.0,1
+17,OIC,SUSPENSION,CONFLICTO DE INTERÉS,Energía,Hombre,Jefe de departamento,7.0,1
+18,Organo de Control Interno,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Energía,Mujer,Jefe de departamento,4.0,1
+19,OIC,INHABILITADO,PECULADO,Energía,Hombre,Jefe de departamento,3.0,1
+20,Organo de Control Interno,INHABILITADO,ABUSO DE FUNCIONES,Energía,Hombre,Jefe de departamento,4.0,1
+21,OIC,INHABILITADO,CONFLICTO DE INTERÉS,Energía,Mujer,Jefe de departamento,9.0,1
+22,Organo de Control Interno,SUSPENSION,ABUSO DE FUNCIONES,Energía,Mujer,Jefe de departamento,8.0,1
+23,Contraloría Interna,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Energía,Hombre,Jefe de departamento,7.0,1
+24,Contraloría Interna,SUSPENSION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Energía,Hombre,Jefe de departamento,4.0,1
+25,OIC,DESTITUCION,CONTRATACIÓN INDEBIDA,Energía,Mujer,Jefe de departamento,9.0,1
+26,Contraloría Interna,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Energía,Mujer,Jefe de departamento,6.0,1
+27,Tribunal,INHABILITADO,CONFLICTO DE INTERÉS,Energía,Mujer,Jefe de departamento,1.0,1
+28,Contraloría Interna,SUSPENSION,DESVÍO DE RECURSOS PÚBLICOS,Energía,Hombre,Jefe de departamento,8.0,1
+29,OIC,INHABILITADO,COHECHO,Energía,Mujer,Jefe de departamento,5.0,1
+30,Contraloría Interna,SUSPENSION,CONTRATACIÓN INDEBIDA,Energía,Mujer,Jefe de departamento,1.0,1
+31,Contraloría Interna,DESTITUCION,ENRIQUECIMIENTO OCULTO,Energía,Hombre,Jefe de departamento,10.0,1
+32,Contraloría Interna,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Medio Ambiente,Hombre,Analista,10.0,1
+33,Tribunal,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Agricultura,Hombre,Director General Paraestatal A,10.0,1
+34,OIC,DESTITUCION,CONFLICTO DE INTERÉS,Servicios,Hombre,Administrador,7.0,1
+35,Organo de Control Interno,INHABILITADO,ABUSO DE FUNCIONES,Energía,Hombre,Subadministrador,5.0,1
+36,OIC,DESTITUCION,CONFLICTO DE INTERÉS,Seguridad Nacional,Hombre,Director de Area,7.0,1
+37,OIC,INHABILITADO,CONFLICTO DE INTERÉS,Comunicación y Transporte,Mujer,Subdirector de Area,7.0,1
+38,Tribunal,SUSPENSION,PECULADO,Salud,Hombre,Subdirector de Area,4.0,1
+39,Tribunal,INHABILITADO,ABUSO DE FUNCIONES,Energía,Hombre,Secretario/a de Estado A,3.0,1
+40,Tribunal,SUSPENSION,NEPOTISMO,Educación e Investigación,Hombre,Analista,6.0,1
+41,OIC,DESTITUCION,CONFLICTO DE INTERÉS,Comunicación y Transporte,Mujer,Director General Paraestatal A,1.0,1
+42,Contraloría Interna,SUSPENSION,NEPOTISMO,Salud,Hombre,Jefe de Departamento,9.0,1
+43,OIC,DESTITUCION,COHECHO,Comunicación y Transporte,Mujer,Director General Paraestatal B,1.0,1
+44,Organo de Control Interno,SUSPENSION,ABUSO DE FUNCIONES,Salud,Hombre,Subdirector de Area,6.0,1
+45,OIC,SUSPENSION,ENRIQUECIMIENTO OCULTO,Comunicación y Transporte,Hombre,Titular de Unidad,5.0,1
+46,OIC,SUSPENSION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Comunicación y Transporte,Mujer,Analista,3.0,1
+47,Organo de Control Interno,DESTITUCION,COHECHO,Agricultura,Mujer,Gobernador/a del Estado,6.0,1
+48,Organo de Control Interno,SUSPENSION,CONTRATACIÓN INDEBIDA,Educación e Investigación,Hombre,Subadministrador,3.0,1
+49,Organo de Control Interno,SUSPENSION,CONFLICTO DE INTERÉS,Educación e Investigación,Mujer,Director General Paraestatal B,4.0,1
+50,Contraloría Interna,DESTITUCION,CONFLICTO DE INTERÉS,Medio Ambiente,Hombre,Director General Paraestatal B,7.0,1
+51,OIC,SUSPENSION,NEPOTISMO,Agricultura,Mujer,Analista,7.0,1
+52,OIC,SUSPENSION,ENRIQUECIMIENTO OCULTO,Comunicación y Transporte,Hombre,Titular de Unidad,2.0,1
+53,Organo de Control Interno,INHABILITADO,CONTRATACIÓN INDEBIDA,Educación e Investigación,Hombre,Subdirector de Area,1.0,1
+54,Contraloría Interna,DESTITUCION,CONFLICTO DE INTERÉS,Agricultura,Mujer,Jefe de Departamento,2.0,1
+55,Organo de Control Interno,DESTITUCION,COHECHO,Agricultura,Hombre,Director General Paraestatal B,8.0,1
+56,Tribunal,DESTITUCION,CONTRATACIÓN INDEBIDA,Educación e Investigación,Mujer,Jefe de Departamento,2.0,1
+57,OIC,DESTITUCION,ENRIQUECIMIENTO OCULTO,Energía,Mujer,Director General Adjunto,10.0,1
+58,Contraloría Interna,SUSPENSION,CONTRATACIÓN INDEBIDA,Comunicación y Transporte,Mujer,Administrador,7.0,1
+59,OIC,INHABILITADO,CONFLICTO DE INTERÉS,Energía,Mujer,Director General Paraestatal A,3.0,1
+60,Organo de Control Interno,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Gobernanza y Justicia,Hombre,Analista,5.0,1
+61,Tribunal,INHABILITADO,DESVÍO DE RECURSOS PÚBLICOS,Banca y Finanzas,Hombre,Subdirector de Area,2.0,1
+62,Organo de Control Interno,INHABILITADO,PECULADO,Economía y Desarrollo,Hombre,Administrador,5.0,1
+63,Tribunal,DESTITUCION,PECULADO,Banca y Finanzas,Hombre,Director de Area,10.0,1
+64,Organo de Control Interno,DESTITUCION,NEPOTISMO,Educación e Investigación,Mujer,Analista,1.0,1
+65,OIC,INHABILITADO,PECULADO,Banca y Finanzas,Mujer,Subadministrador,6.0,1
+66,Organo de Control Interno,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Educación e Investigación,Mujer,Administrador,9.0,1
+67,Organo de Control Interno,DESTITUCION,NEPOTISMO,Arte y Cultura,Mujer,Administrador,5.0,1
+68,OIC,INHABILITADO,DESVÍO DE RECURSOS PÚBLICOS,Medio Ambiente,Hombre,Jefe de Departamento,1.0,1
+69,Organo de Control Interno,DESTITUCION,ENRIQUECIMIENTO OCULTO,Comunicación y Transporte,Hombre,Analista,10.0,1
+70,Tribunal,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Agricultura,Hombre,Gobernador/a del Estado,4.0,1
+71,Organo de Control Interno,SUSPENSION,ABUSO DE FUNCIONES,Educación e Investigación,Hombre,Gobernador/a del Estado,5.0,1
+72,OIC,SUSPENSION,PECULADO,Energía,Hombre,Jefe de Departamento,7.0,1
+73,Organo de Control Interno,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Agricultura,Mujer,Director General Paraestatal A,4.0,1
+74,Organo de Control Interno,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Comunicación y Transporte,Hombre,Jefe de Departamento,9.0,1
+75,Contraloría Interna,DESTITUCION,ABUSO DE FUNCIONES,Agricultura,Hombre,Subdirector de Area,1.0,1
+76,Tribunal,INHABILITADO,CONTRATACIÓN INDEBIDA,Energía,Hombre,Subdirector de Area,7.0,1
+77,Tribunal,DESTITUCION,CONTRATACIÓN INDEBIDA,Banca y Finanzas,Mujer,Subdirector de Area,8.0,1
+78,Organo de Control Interno,INHABILITADO,COHECHO,Educación e Investigación,Mujer,Titular de Unidad,2.0,1
+79,Contraloría Interna,DESTITUCION,CONTRATACIÓN INDEBIDA,Educación e Investigación,Mujer,Subdirector de Area,2.0,1
+80,Contraloría Interna,DESTITUCION,COHECHO,Educación e Investigación,Hombre,Secretario/a de Estado A,8.0,1
+81,Tribunal,DESTITUCION,CONFLICTO DE INTERÉS,Educación e Investigación,Mujer,Jefe de Departamento,2.0,1
+82,Organo de Control Interno,SUSPENSION,DESVÍO DE RECURSOS PÚBLICOS,Arte y Cultura,Mujer,Administrador,6.0,1
+83,OIC,SUSPENSION,ABUSO DE FUNCIONES,Banca y Finanzas,Hombre,Gobernador/a del Estado,6.0,1
+84,Organo de Control Interno,SUSPENSION,ABUSO DE FUNCIONES,Industria,Mujer,Subadministrador,2.0,1
+85,Organo de Control Interno,INHABILITADO,ABUSO DE FUNCIONES,Educación e Investigación,Mujer,Subadministrador,4.0,1
+86,Organo de Control Interno,SUSPENSION,PECULADO,Economía y Desarrollo,Mujer,Director de Area,9.0,1
+87,Tribunal,SUSPENSION,CONTRATACIÓN INDEBIDA,Comunicación y Transporte,Hombre,Director General Paraestatal C,6.0,1
+88,Organo de Control Interno,SUSPENSION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Comunicación y Transporte,Mujer,Jefe de Departamento,4.0,1
+89,Organo de Control Interno,SUSPENSION,CONTRATACIÓN INDEBIDA,Salud,Hombre,Gobernador/a del Estado,4.0,1
+90,Organo de Control Interno,DESTITUCION,CONFLICTO DE INTERÉS,Comunicación y Transporte,Hombre,Subdirector de Area,1.0,1
+91,Tribunal,INHABILITADO,PECULADO,Banca y Finanzas,Hombre,Director General Paraestatal C,2.0,1
+92,OIC,SUSPENSION,PECULADO,Comunicación y Transporte,Hombre,Subadministrador,9.0,1
+93,Tribunal,DESTITUCION,NEPOTISMO,Educación e Investigación,Mujer,Subadministrador,4.0,1
+94,Tribunal,SUSPENSION,PECULADO,Comunicación y Transporte,Hombre,Director de Area,5.0,1
+95,Tribunal,DESTITUCION,TRÁFICO DE INFLUENCIAS,Agricultura,Mujer,Titular de Unidad,8.0,1
+96,OIC,DESTITUCION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Salud,Mujer,Analista,6.0,1
+97,Organo de Control Interno,INHABILITADO,NEPOTISMO,Salud,Hombre,Subadministrador,7.0,1
+98,Organo de Control Interno,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Energía,Mujer,Director General Paraestatal C,8.0,1
+99,Contraloría Interna,DESTITUCION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Energía,Mujer,Subdirector de Area,8.0,1
+100,Organo de Control Interno,DESTITUCION,NEPOTISMO,Salud,Mujer,Jefe de Departamento,2.0,1
+101,Organo de Control Interno,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Energía,Mujer,Director General Paraestatal B,10.0,1
+102,Organo de Control Interno,SUSPENSION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Banca y Finanzas,Mujer,Subdirector de Area,5.0,1
+103,Contraloría Interna,SUSPENSION,NEPOTISMO,Energía,Mujer,Jefe de Departamento,8.0,1
+104,Contraloría Interna,SUSPENSION,CONFLICTO DE INTERÉS,Servicios,Mujer,Subdirector de Area,3.0,1
+105,OIC,DESTITUCION,NEPOTISMO,Comunicación y Transporte,Hombre,Jefe de Departamento,9.0,1
+106,Contraloría Interna,DESTITUCION,COHECHO,Educación e Investigación,Mujer,Subdirector de Area,3.0,1
+107,Contraloría Interna,INHABILITADO,CONFLICTO DE INTERÉS,Salud,Mujer,Analista,3.0,1
+108,Organo de Control Interno,INHABILITADO,ENRIQUECIMIENTO OCULTO,Comunicación y Transporte,Hombre,Jefe de Departamento,9.0,1
+109,Contraloría Interna,DESTITUCION,CONTRATACIÓN INDEBIDA,Banca y Finanzas,Hombre,Jefe de Departamento,1.0,1
+110,OIC,INHABILITADO,COHECHO,Servicios,Hombre,Subadministrador,5.0,1
+111,Tribunal,DESTITUCION,CONFLICTO DE INTERÉS,Educación e Investigación,Mujer,Secretario/a de Estado A,8.0,1
+112,Organo de Control Interno,SUSPENSION,COHECHO,Seguridad Nacional,Hombre,Administrador,10.0,1
+113,Tribunal,INHABILITADO,CONTRATACIÓN INDEBIDA,Servicios,Mujer,Analista,6.0,1
+114,Tribunal,SUSPENSION,TRÁFICO DE INFLUENCIAS,Industria,Hombre,Analista,3.0,1
+115,Contraloría Interna,DESTITUCION,TRÁFICO DE INFLUENCIAS,Energía,Mujer,Administrador,9.0,1
+116,Organo de Control Interno,INHABILITADO,TRÁFICO DE INFLUENCIAS,Banca y Finanzas,Hombre,Director General Paraestatal A,8.0,1
+117,Tribunal,DESTITUCION,ABUSO DE FUNCIONES,Salud,Mujer,Gobernador/a del Estado,4.0,1
+118,OIC,SUSPENSION,ABUSO DE FUNCIONES,Minería,Mujer,Subdirector de Area,4.0,1
+119,Tribunal,INHABILITADO,NEPOTISMO,Servicios,Mujer,Jefe de Departamento,10.0,1
+120,Organo de Control Interno,INHABILITADO,NEPOTISMO,Salud,Mujer,Subdirector de Area,1.0,1
+121,OIC,SUSPENSION,COHECHO,Economía y Desarrollo,Hombre,Analista,8.0,1
+122,Organo de Control Interno,DESTITUCION,ABUSO DE FUNCIONES,Comunicación y Transporte,Hombre,Subdirector de Area,5.0,1
+123,OIC,INHABILITADO,NEPOTISMO,Educación e Investigación,Hombre,Administrador,8.0,1
+124,OIC,SUSPENSION,TRÁFICO DE INFLUENCIAS,Gobernanza y Justicia,Hombre,Director de Area,4.0,1
+125,Contraloría Interna,DESTITUCION,CONTRATACIÓN INDEBIDA,Gobernanza y Justicia,Mujer,Jefe de Departamento,7.0,1
+126,Contraloría Interna,INHABILITADO,DESVÍO DE RECURSOS PÚBLICOS,Salud,Hombre,Director General Paraestatal A,10.0,1
+127,Tribunal,INHABILITADO,ENRIQUECIMIENTO OCULTO,Agricultura,Hombre,Subdirector de Area,5.0,1
+128,Organo de Control Interno,INHABILITADO,ABUSO DE FUNCIONES,Seguridad Nacional,Hombre,Secretario/a de Estado A,10.0,1
+129,Tribunal,INHABILITADO,PECULADO,Educación e Investigación,Hombre,Subadministrador,5.0,1
+130,OIC,SUSPENSION,CONFLICTO DE INTERÉS,Educación e Investigación,Hombre,Director General Paraestatal A,8.0,1
+131,Tribunal,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Servicios,Hombre,Gobernador/a del Estado,3.0,1
+132,OIC,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Gobernanza y Justicia,Mujer,Titular de Unidad,10.0,1
+133,OIC,DESTITUCION,CONFLICTO DE INTERÉS,Educación e Investigación,Hombre,Director General Paraestatal A,6.0,1
+134,Tribunal,DESTITUCION,NEPOTISMO,Salud,Hombre,Director General Paraestatal C,2.0,1
+135,Organo de Control Interno,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Educación e Investigación,Hombre,Administrador,5.0,1
+136,Organo de Control Interno,SUSPENSION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Banca y Finanzas,Hombre,Analista,4.0,1
+137,Contraloría Interna,INHABILITADO,DESVÍO DE RECURSOS PÚBLICOS,Energía,Hombre,Director de Area,10.0,1
+138,Organo de Control Interno,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Seguridad Nacional,Hombre,Titular de Unidad,5.0,1
+139,OIC,INHABILITADO,ABUSO DE FUNCIONES,Salud,Hombre,Jefe de Departamento,7.0,1
+140,Tribunal,DESTITUCION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Agricultura,Mujer,Analista,3.0,1
+141,OIC,INHABILITADO,ENRIQUECIMIENTO OCULTO,Salud,Hombre,Subdirector de Area,4.0,1
+142,Contraloría Interna,SUSPENSION,ENRIQUECIMIENTO OCULTO,Seguridad Nacional,Hombre,Titular de Unidad,2.0,1
+143,Tribunal,SUSPENSION,ABUSO DE FUNCIONES,Agricultura,Mujer,Administrador,6.0,1
+144,OIC,SUSPENSION,ABUSO DE FUNCIONES,Medio Ambiente,Mujer,Director General Adjunto,8.0,1
+145,OIC,DESTITUCION,NEPOTISMO,Salud,Mujer,Subdirector de Area,1.0,1
+146,Contraloría Interna,SUSPENSION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Salud,Hombre,Administrador,2.0,1
+147,Organo de Control Interno,SUSPENSION,ENRIQUECIMIENTO OCULTO,Educación e Investigación,Mujer,Director de Area,6.0,1
+148,OIC,DESTITUCION,COHECHO,Salud,Mujer,Analista,1.0,1
+149,OIC,SUSPENSION,NEPOTISMO,Comunicación y Transporte,Mujer,Analista,4.0,1
+150,OIC,SUSPENSION,COHECHO,Banca y Finanzas,Mujer,Jefe de Departamento,7.0,1
+151,Organo de Control Interno,SUSPENSION,CONFLICTO DE INTERÉS,Comunicación y Transporte,Hombre,Administrador,5.0,1
+152,Contraloría Interna,DESTITUCION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Arte y Cultura,Mujer,Secretario/a de Estado A,7.0,1
+153,OIC,INHABILITADO,NEPOTISMO,Arte y Cultura,Mujer,Subadministrador,3.0,1
+154,OIC,DESTITUCION,PECULADO,Arte y Cultura,Mujer,Gobernador/a del Estado,1.0,1
+155,Organo de Control Interno,SUSPENSION,NEPOTISMO,Educación e Investigación,Hombre,Director General Paraestatal C,10.0,1
+156,OIC,DESTITUCION,TRÁFICO DE INFLUENCIAS,,Mujer,Analista,6.0,1
+157,Tribunal,DESTITUCION,PECULADO,Economía y Desarrollo,Hombre,Subdirector de Area,4.0,1
+158,OIC,DESTITUCION,ENRIQUECIMIENTO OCULTO,Educación e Investigación,Hombre,Analista,7.0,1
+159,Contraloría Interna,SUSPENSION,CONTRATACIÓN INDEBIDA,Salud,Mujer,Subadministrador,7.0,1
+160,OIC,INHABILITADO,CONTRATACIÓN INDEBIDA,Educación e Investigación,Hombre,Director General Paraestatal A,8.0,1
+161,OIC,INHABILITADO,ABUSO DE FUNCIONES,Agricultura,Mujer,Director de Area,5.0,1
+162,Organo de Control Interno,SUSPENSION,ENRIQUECIMIENTO OCULTO,Banca y Finanzas,Mujer,Titular de Unidad,4.0,1
+163,Contraloría Interna,INHABILITADO,ENRIQUECIMIENTO OCULTO,Energía,Mujer,Administrador,6.0,1
+164,Tribunal,SUSPENSION,CONTRATACIÓN INDEBIDA,Salud,Mujer,Analista,10.0,1
+165,Tribunal,SUSPENSION,ENRIQUECIMIENTO OCULTO,Servicios,Mujer,Subdirector de Area,7.0,1
+166,Organo de Control Interno,INHABILITADO,ABUSO DE FUNCIONES,Educación e Investigación,Hombre,Analista,1.0,1
+167,Organo de Control Interno,INHABILITADO,COHECHO,Banca y Finanzas,Mujer,Administrador,4.0,1
+168,Contraloría Interna,DESTITUCION,TRÁFICO DE INFLUENCIAS,Medio Ambiente,Mujer,Jefe de Departamento,8.0,1
+169,OIC,SUSPENSION,COHECHO,Banca y Finanzas,Mujer,Analista,2.0,1
+170,Organo de Control Interno,SUSPENSION,PECULADO,Banca y Finanzas,Hombre,Director General Paraestatal B,10.0,1
+171,Organo de Control Interno,DESTITUCION,COHECHO,Educación e Investigación,Mujer,Director General Paraestatal B,2.0,1
+172,Contraloría Interna,DESTITUCION,NEPOTISMO,Educación e Investigación,Hombre,Jefe de Departamento,1.0,1
+173,OIC,INHABILITADO,DESVÍO DE RECURSOS PÚBLICOS,Educación e Investigación,Hombre,Jefe de Departamento,1.0,1
+174,Contraloría Interna,SUSPENSION,ENRIQUECIMIENTO OCULTO,Educación e Investigación,Hombre,Subdirector de Area,5.0,1
+175,Contraloría Interna,INHABILITADO,COHECHO,Economía y Desarrollo,Mujer,Director General Paraestatal A,1.0,1
+176,Tribunal,INHABILITADO,ABUSO DE FUNCIONES,Comunicación y Transporte,Mujer,Director General Adjunto,1.0,1
+177,Contraloría Interna,DESTITUCION,ABUSO DE FUNCIONES,Educación e Investigación,Hombre,Analista,5.0,1
+178,Organo de Control Interno,INHABILITADO,PECULADO,Seguridad Nacional,Hombre,Director General Paraestatal B,8.0,1
+179,Tribunal,DESTITUCION,TRÁFICO DE INFLUENCIAS,Arte y Cultura,Hombre,Director de Area,8.0,1
+180,Tribunal,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Gobernanza y Justicia,Mujer,Director General Paraestatal B,5.0,1
+181,OIC,SUSPENSION,DESVÍO DE RECURSOS PÚBLICOS,Educación e Investigación,Mujer,Director General Paraestatal C,2.0,1
+182,Organo de Control Interno,DESTITUCION,ABUSO DE FUNCIONES,Medio Ambiente,Mujer,Jefe de Departamento,6.0,1
+183,Organo de Control Interno,DESTITUCION,TRÁFICO DE INFLUENCIAS,Energía,Hombre,Administrador,8.0,1
+184,Tribunal,DESTITUCION,CONTRATACIÓN INDEBIDA,Energía,Mujer,Gobernador/a del Estado,5.0,1
+185,OIC,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Educación e Investigación,Mujer,Jefe de Departamento,10.0,1
+186,Organo de Control Interno,INHABILITADO,DESVÍO DE RECURSOS PÚBLICOS,Seguridad Nacional,Hombre,Subdirector de Area,7.0,1
+187,Tribunal,SUSPENSION,ENRIQUECIMIENTO OCULTO,Gobernanza y Justicia,Hombre,Subadministrador,10.0,1
+188,OIC,SUSPENSION,ENRIQUECIMIENTO OCULTO,Seguridad Nacional,Mujer,Subdirector de Area,4.0,1
+189,Contraloría Interna,INHABILITADO,TRÁFICO DE INFLUENCIAS,Salud,Mujer,Jefe de Departamento,1.0,1
+190,Organo de Control Interno,SUSPENSION,ABUSO DE FUNCIONES,Comunicación y Transporte,Hombre,Director General Paraestatal B,2.0,1
+191,OIC,DESTITUCION,PECULADO,Educación e Investigación,Mujer,Analista,3.0,1
+192,Contraloría Interna,INHABILITADO,COHECHO,Energía,Mujer,Subdirector de Area,8.0,1
+193,Contraloría Interna,INHABILITADO,NEPOTISMO,Banca y Finanzas,Hombre,Jefe de Departamento,10.0,1
+194,OIC,INHABILITADO,TRÁFICO DE INFLUENCIAS,Comunicación y Transporte,Mujer,Jefe de Departamento,2.0,1
+195,Organo de Control Interno,SUSPENSION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Comunicación y Transporte,Hombre,Titular de Unidad,9.0,1
+196,OIC,SUSPENSION,ENRIQUECIMIENTO OCULTO,Servicios,Hombre,Director de Area,8.0,1
+197,Tribunal,INHABILITADO,COHECHO,Salud,Hombre,Subdirector de Area,7.0,1
+198,OIC,INHABILITADO,PECULADO,Educación e Investigación,Hombre,Titular de Unidad,10.0,1
+199,Contraloría Interna,SUSPENSION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Educación e Investigación,Hombre,Director General Adjunto,8.0,1
+200,OIC,DESTITUCION,CONTRATACIÓN INDEBIDA,Salud,Mujer,Director General Paraestatal C,8.0,1
+201,Contraloría Interna,SUSPENSION,TRÁFICO DE INFLUENCIAS,Gobernanza y Justicia,Hombre,Director de Area,4.0,1
+202,OIC,DESTITUCION,TRÁFICO DE INFLUENCIAS,Banca y Finanzas,Hombre,Subadministrador,6.0,1
+203,Contraloría Interna,INHABILITADO,COHECHO,Arte y Cultura,Hombre,Subadministrador,5.0,1
+204,OIC,SUSPENSION,COHECHO,Economía y Desarrollo,Mujer,Jefe de Departamento,1.0,1
+205,Tribunal,SUSPENSION,CONFLICTO DE INTERÉS,Energía,Mujer,Director General Adjunto,5.0,1
+206,Organo de Control Interno,DESTITUCION,NEPOTISMO,Seguridad Nacional,Hombre,Jefe de Departamento,10.0,1
+207,Tribunal,INHABILITADO,TRÁFICO DE INFLUENCIAS,Salud,Hombre,Secretario/a de Estado A,10.0,1
+208,Tribunal,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Comunicación y Transporte,Mujer,Jefe de Departamento,10.0,1
+209,Organo de Control Interno,SUSPENSION,ENRIQUECIMIENTO OCULTO,Comunicación y Transporte,Mujer,Administrador,1.0,1
+210,OIC,DESTITUCION,CONFLICTO DE INTERÉS,Salud,Mujer,Subdirector de Area,1.0,1
+211,OIC,INHABILITADO,CONTRATACIÓN INDEBIDA,Salud,Mujer,Jefe de Departamento,4.0,1
+212,Tribunal,INHABILITADO,CONFLICTO DE INTERÉS,Economía y Desarrollo,Hombre,Director de Area,7.0,1
+213,Contraloría Interna,DESTITUCION,COHECHO,Educación e Investigación,Mujer,Jefe de Departamento,3.0,1
+214,Organo de Control Interno,INHABILITADO,COHECHO,Agricultura,Mujer,Titular de Unidad,10.0,1
+215,Contraloría Interna,INHABILITADO,DESVÍO DE RECURSOS PÚBLICOS,Salud,Mujer,Director General Adjunto,10.0,1
+216,OIC,SUSPENSION,NEPOTISMO,Salud,Hombre,Subadministrador,8.0,1
+217,Contraloría Interna,SUSPENSION,CONFLICTO DE INTERÉS,Salud,Mujer,Administrador,5.0,1
+218,OIC,SUSPENSION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Educación e Investigación,Mujer,Subdirector de Area,1.0,1
+219,OIC,SUSPENSION,TRÁFICO DE INFLUENCIAS,Educación e Investigación,Mujer,Director General Adjunto,6.0,1
+220,Organo de Control Interno,INHABILITADO,NEPOTISMO,Banca y Finanzas,Mujer,Director de Area,4.0,1
+221,Tribunal,DESTITUCION,TRÁFICO DE INFLUENCIAS,Salud,Mujer,Director de Area,9.0,1
+222,Contraloría Interna,INHABILITADO,COHECHO,Salud,Hombre,Subdirector de Area,4.0,1
+223,Tribunal,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Educación e Investigación,Hombre,Subadministrador,1.0,1
+224,Contraloría Interna,INHABILITADO,CONFLICTO DE INTERÉS,Banca y Finanzas,Hombre,Administrador,4.0,1
+225,Organo de Control Interno,DESTITUCION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Educación e Investigación,Mujer,Jefe de Departamento,8.0,1
+226,Contraloría Interna,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Arte y Cultura,Mujer,Subadministrador,3.0,1
+227,Organo de Control Interno,INHABILITADO,CONFLICTO DE INTERÉS,Educación e Investigación,Mujer,Administrador,1.0,1
+228,Contraloría Interna,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Educación e Investigación,Hombre,Director General Paraestatal C,9.0,1
+229,OIC,SUSPENSION,COHECHO,Comunicación y Transporte,Hombre,Subadministrador,7.0,1
+230,Tribunal,DESTITUCION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Agricultura,Mujer,Titular de Unidad,4.0,1
+231,Organo de Control Interno,INHABILITADO,ENRIQUECIMIENTO OCULTO,Seguridad Nacional,Mujer,Subdirector de Area,3.0,1
+232,OIC,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Comunicación y Transporte,Hombre,Director General Paraestatal C,8.0,1
+233,Organo de Control Interno,INHABILITADO,CONTRATACIÓN INDEBIDA,Servicios,Mujer,Director de Area,5.0,1
+234,Tribunal,INHABILITADO,CONFLICTO DE INTERÉS,Medio Ambiente,Hombre,Jefe de Departamento,3.0,1
+235,OIC,INHABILITADO,ENRIQUECIMIENTO OCULTO,Salud,Hombre,Jefe de Departamento,8.0,1
+236,OIC,DESTITUCION,NEPOTISMO,Educación e Investigación,Mujer,Titular de Unidad,3.0,1
+237,Tribunal,INHABILITADO,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Educación e Investigación,Mujer,Subadministrador,1.0,1
+238,Tribunal,SUSPENSION,UTILIZACIÓN INDEBIDA DE INFORMACIÓN,Economía y Desarrollo,Hombre,Director General Paraestatal A,3.0,1
+239,Organo de Control Interno,INHABILITADO,PECULADO,Economía y Desarrollo,Hombre,Secretario/a de Estado A,8.0,1
+240,Tribunal,INHABILITADO,ENRIQUECIMIENTO OCULTO,Energía,Mujer,Director General Adjunto,4.0,1
+241,Organo de Control Interno,SUSPENSION,NEPOTISMO,Gobernanza y Justicia,Mujer,Administrador,7.0,1
+242,Organo de Control Interno,DESTITUCION,DESVÍO DE RECURSOS PÚBLICOS,Arte y Cultura,Hombre,Secretario/a de Estado A,10.0,1
+243,Tribunal,SUSPENSION,DESVÍO DE RECURSOS PÚBLICOS,Salud,Hombre,Jefe de Departamento,8.0,1
+244,Contraloría Interna,INHABILITADO,DESVÍO DE RECURSOS PÚBLICOS,Medio Ambiente,Hombre,Jefe de Departamento,10.0,1
+245,IMSS,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Subdirector,4.0,1
+246,SHCP,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Hombre,Director General Adjunto,2.0,1
+247,CNDH,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Jefe de departamento,2.0,1
+248,IMSS,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Director General Adjunto,2.0,1
+249,SHCP,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Hombre,Titular de Unidad,0.08,1
+250,CNDH,INHABILITADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Titular de Unidad,2.0,1
+251,PGR,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Director General Adjunto,4.0,1
+252,PGR,SUSPENSION,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Director General,2.0,1
+253,PGR,SUSPENSION,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Director General Adjunto,4.0,1
+254,PRONIF,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Jefe de departamento,3.0,1
+255,PGR,DESTITUCION,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Titular de Unidad,4.0,1
+256,PRONIF,MULTADO,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Subdirector,2.0,1
+257,CNDH,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Titular de Unidad,3.0,1
+258,SHCP,SUSPENSION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Hombre,Director General,3.0,1
+259,PGR,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Jefe de departamento,3.0,1
+260,CNDH,DESTITUCION,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Director General Adjunto,3.0,1
+261,PRONIF,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Hombre,Director General Adjunto,3.0,1
+262,PGR,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Director General,3.0,1
+263,PGR,DESTITUCION,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Subdirector,2.0,1
+264,DIF,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Jefe de departamento,2.0,1
+265,SHCP,DESTITUCION,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Jefe de departamento,0.08,1
+266,DIF,DESTITUCION,OBRA FUERA DE TIEMPO,Gasto Público,Mujer,Director General,4.0,1
+267,PRONIF,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Titular de Unidad,3.0,1
+268,SHCP,SANCIÓN ECONÓMICA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Hombre,Director General,2.0,1
+269,SHCP,DESTITUCION,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Director General,0.08,1
+270,CNDH,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Gasto Público,Hombre,Jefe de departamento,0.08,1
+271,PGR,INHABILITADO,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Subdirector,3.0,1
+272,IMSS,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Subdirector,3.0,1
+273,PGR,INHABILITADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Subdirector,3.0,1
+274,PRONIF,INHABILITADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Hombre,Jefe de departamento,4.0,1
+275,SHCP,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Director General,0.08,1
+276,SHCP,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Titular de Unidad,2.0,1
+277,DIF,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Subdirector,3.0,1
+278,PRONIF,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Hombre,Director General,3.0,1
+279,IMSS,INDEMNIZACIÓN RESARCITORIA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Jefe de departamento,2.0,1
+280,PGR,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Hombre,Director General Adjunto,0.08,1
+281,IMSS,INHABILITADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Director General Adjunto,4.0,1
+282,SHCP,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Director,3.0,1
+283,SHCP,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Titular de Unidad,3.0,1
+284,SHCP,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Jefe de departamento,3.0,1
+285,PRONIF,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Hombre,Titular de Unidad,3.0,1
+286,CNDH,INHABILITADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Jefe de departamento,0.08,1
+287,PGR,MULTADO,NO FORMALIZACION DE CONTRATO,Gasto Público,Hombre,Titular de Unidad,0.08,1
+288,SHCP,SUSPENSION,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Subdirector,2.0,1
+289,SHCP,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Hombre,Director General,0.08,1
+290,SHCP,SUSPENSION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Titular de Unidad,2.0,1
+291,DIF,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Hombre,Subdirector,4.0,1
+292,DIF,INHABILITADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Director General,0.08,1
+293,CNDH,INHABILITADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Subdirector,3.0,1
+294,DIF,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Jefe de departamento,3.0,1
+295,CNDH,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Titular de Unidad,2.0,1
+296,CNDH,SUSPENSION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Director General Adjunto,0.08,1
+297,PGR,INDEMNIZACIÓN RESARCITORIA,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Director General,0.08,1
+298,PGR,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Jefe de departamento,2.0,1
+299,PRONIF,INHABILITADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Subdirector,3.0,1
+300,DIF,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Director General,0.08,1
+301,SHCP,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Director General Adjunto,4.0,1
+302,PRONIF,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Hombre,Director General Adjunto,0.08,1
+303,CNDH,INHABILITADO,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Director,0.08,1
+304,CNDH,INDEMNIZACIÓN RESARCITORIA,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Jefe de departamento,0.08,1
+305,PRONIF,DESTITUCION,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Hombre,Director General Adjunto,0.08,1
+306,PGR,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Gasto Público,Hombre,Titular de Unidad,0.08,1
+307,PRONIF,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Director General,3.0,1
+308,DIF,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Titular de Unidad,4.0,1
+309,IMSS,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Hombre,Jefe de departamento,4.0,1
+310,SHCP,INHABILITADO,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Director,4.0,1
+311,CNDH,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Director General,3.0,1
+312,CNDH,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Director,4.0,1
+313,CNDH,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Hombre,Jefe de departamento,4.0,1
+314,PRONIF,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Jefe de departamento,2.0,1
+315,PGR,MULTADO,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Jefe de departamento,2.0,1
+316,PGR,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Titular de Unidad,3.0,1
+317,DIF,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Director,4.0,1
+318,SHCP,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Titular de Unidad,4.0,1
+319,IMSS,INDEMNIZACIÓN RESARCITORIA,NO FORMALIZACION DE CONTRATO,Gasto Público,Hombre,Director General,4.0,1
+320,PRONIF,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Subdirector,2.0,1
+321,IMSS,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Subdirector,0.08,1
+322,IMSS,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Director General,2.0,1
+323,DIF,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Titular de Unidad,0.08,1
+324,CNDH,SUSPENSION,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Director,0.08,1
+325,PGR,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Director General,2.0,1
+326,IMSS,SUSPENSION,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Titular de Unidad,3.0,1
+327,PRONIF,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Subdirector,0.08,1
+328,SHCP,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Titular de Unidad,4.0,1
+329,SHCP,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Titular de Unidad,4.0,1
+330,DIF,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Director,0.08,1
+331,Contraloría interna,SUSPENSIÓN,ABUSO DE FUNCIONES,Banca y Finanzas,Hombre,Subdirector de Crédito,0.5,1
+332,IMSS,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Titular de Unidad,4.0,1
+333,CNDH,SANCIÓN ECONÓMICA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Hombre,Jefe de departamento,4.0,1
+334,PGR,SUSPENSION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Director General Adjunto,0.08,1
+335,CNDH,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Hombre,Subdirector,4.0,1
+336,IMSS,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Hombre,Director General,2.0,1
+337,DIF,INDEMNIZACIÓN RESARCITORIA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Director General Adjunto,4.0,1
+338,DIF,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Jefe de departamento,3.0,1
+339,CNDH,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Director General,4.0,1
+340,CNDH,MULTADO,OBRA FUERA DE TIEMPO,Gasto Público,Hombre,Titular de Unidad,0.08,1
+341,SHCP,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Jefe de departamento,3.0,1
+342,IMSS,INHABILITADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Director,0.08,1
+343,SHCP,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Hombre,Subdirector,4.0,1
+344,IMSS,INDEMNIZACIÓN RESARCITORIA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Director General,0.08,1
+345,DIF,DESTITUCION,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Director General Adjunto,4.0,1
+346,SHCP,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Director General Adjunto,3.0,1
+347,IMSS,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Director General,4.0,1
+348,DIF,MULTADO,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Director General,4.0,1
+349,DIF,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Jefe de departamento,2.0,1
+350,CNDH,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Director General Adjunto,0.08,1
+351,SHCP,MULTADO,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Hombre,Subdirector,0.08,1
+352,CNDH,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Gasto Público,Hombre,Director General,0.08,1
+353,SHCP,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Hombre,Subdirector,2.0,1
+354,PRONIF,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Hombre,Titular de Unidad,0.08,1
+355,DIF,SUSPENSION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Director,0.08,1
+356,PRONIF,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Subdirector,3.0,1
+357,CNDH,SUSPENSION,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Hombre,Director,0.08,1
+358,PRONIF,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Director,2.0,1
+359,CNDH,INHABILITADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Jefe de departamento,2.0,1
+360,PRONIF,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Subdirector,2.0,1
+361,PRONIF,INDEMNIZACIÓN RESARCITORIA,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Subdirector,0.08,1
+362,DIF,MULTADO,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Director General,2.0,1
+363,IMSS,SUSPENSION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Jefe de departamento,0.08,1
+364,PGR,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Titular de Unidad,2.0,1
+365,PRONIF,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Director,2.0,1
+366,IMSS,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Jefe de departamento,3.0,1
+367,CNDH,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Director,3.0,1
+368,CNDH,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Director,0.08,1
+369,DIF,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Subdirector,4.0,1
+370,CNDH,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Titular de Unidad,0.08,1
+371,DIF,INDEMNIZACIÓN RESARCITORIA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Jefe de departamento,0.08,1
+372,IMSS,DESTITUCION,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Titular de Unidad,4.0,1
+373,DIF,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Titular de Unidad,0.08,1
+374,CNDH,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Subdirector,4.0,1
+375,PGR,SUSPENSION,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Jefe de departamento,2.0,1
+376,PGR,SANCIÓN ECONÓMICA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Hombre,Director General Adjunto,0.08,1
+377,PRONIF,INHABILITADO,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Director General Adjunto,4.0,1
+378,IMSS,SANCIÓN ECONÓMICA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Director,0.08,1
+379,IMSS,INHABILITADO,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Titular de Unidad,0.08,1
+380,PRONIF,MULTADO,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Subdirector,3.0,1
+381,SHCP,DESTITUCION,NO FORMALIZACION DE CONTRATO,Gasto Público,Hombre,Subdirector,0.08,1
+382,CNDH,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Hombre,Director,4.0,1
+383,PGR,SUSPENSION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Titular de Unidad,4.0,1
+384,CNDH,INDEMNIZACIÓN RESARCITORIA,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Subdirector,4.0,1
+385,IMSS,MULTADO,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Jefe de departamento,0.08,1
+386,CNDH,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Subdirector,0.08,1
+387,PRONIF,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Director,3.0,1
+388,CNDH,INHABILITADO,OBRA FUERA DE TIEMPO,Gasto Público,Hombre,Jefe de departamento,3.0,1
+389,PRONIF,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Director General Adjunto,2.0,1
+390,PGR,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Director General Adjunto,4.0,1
+391,CNDH,MULTADO,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Hombre,Director General,0.08,1
+392,PGR,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Jefe de departamento,0.08,1
+393,CNDH,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Director General,3.0,1
+394,PGR,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Hombre,Titular de Unidad,3.0,1
+395,PGR,DESTITUCION,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Hombre,Jefe de departamento,0.08,1
+396,PGR,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Hombre,Director,3.0,1
+397,DIF,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Director,2.0,1
+398,IMSS,INHABILITADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Jefe de departamento,4.0,1
+399,CNDH,INHABILITADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Subdirector,0.08,1
+400,SHCP,INHABILITADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Jefe de departamento,3.0,1
+401,PGR,DESTITUCION,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Jefe de departamento,3.0,1
+402,PGR,INDEMNIZACIÓN RESARCITORIA,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Jefe de departamento,4.0,1
+403,DIF,MULTADO,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Director General Adjunto,3.0,1
+404,CNDH,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Jefe de departamento,3.0,1
+405,IMSS,SUSPENSION,OBRA FUERA DE TIEMPO,Gasto Público,Mujer,Director General,0.08,1
+406,DIF,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Director General,0.08,1
+407,IMSS,DESTITUCION,NO FORMALIZACION DE CONTRATO,Gasto Público,Hombre,Subdirector,4.0,1
+408,PRONIF,SUSPENSION,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Titular de Unidad,3.0,1
+409,CNDH,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Gasto Público,Hombre,Titular de Unidad,0.08,1
+410,DIF,DESTITUCION,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Jefe de departamento,0.08,1
+411,DIF,DESTITUCION,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Director General,0.08,1
+412,IMSS,INHABILITADO,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Titular de Unidad,4.0,1
+413,PRONIF,MULTADO,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Subdirector,2.0,1
+414,SHCP,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Subdirector,0.08,1
+415,SHCP,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Hombre,Director General Adjunto,0.08,1
+416,IMSS,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Hombre,Director General,2.0,1
+417,DIF,MULTADO,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Director,4.0,1
+418,PRONIF,INHABILITADO,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Titular de Unidad,3.0,1
+419,CNDH,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Hombre,Titular de Unidad,4.0,1
+420,PRONIF,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Subdirector,0.08,1
+421,SHCP,SUSPENSION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Director General,2.0,1
+422,CNDH,SUSPENSION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Jefe de departamento,3.0,1
+423,CNDH,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Subdirector,2.0,1
+424,CNDH,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Director General,0.08,1
+425,PGR,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Titular de Unidad,4.0,1
+426,CNDH,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Director,4.0,1
+427,PRONIF,SUSPENSION,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Director General,4.0,1
+428,IMSS,INHABILITADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Director,4.0,1
+429,PRONIF,INHABILITADO,OBRA FUERA DE TIEMPO,Gasto Público,Hombre,Director,4.0,1
+430,DIF,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Hombre,Titular de Unidad,4.0,1
+431,IMSS,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Subdirector,0.08,1
+432,SHCP,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Director General,2.0,1
+433,SHCP,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Director,0.08,1
+434,IMSS,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Subdirector,3.0,1
+435,PGR,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Titular de Unidad,0.08,1
+436,IMSS,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Subdirector,3.0,1
+437,DIF,INHABILITADO,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Jefe de departamento,2.0,1
+438,SHCP,MULTADO,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Director General Adjunto,0.08,1
+439,DIF,INHABILITADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Director General Adjunto,3.0,1
+440,PGR,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Director,4.0,1
+441,DIF,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Titular de Unidad,0.08,1
+442,IMSS,SUSPENSION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Jefe de departamento,2.0,1
+443,CNDH,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Gasto Público,Mujer,Subdirector,0.08,1
+444,PRONIF,INHABILITADO,OBRA FUERA DE TIEMPO,Gasto Público,Mujer,Subdirector,0.08,1
+445,CNDH,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Director General Adjunto,4.0,1
+446,CNDH,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Subdirector,0.08,1
+447,SHCP,MULTADO,NO FORMALIZACION DE CONTRATO,Gasto Público,Hombre,Director General,2.0,1
+448,PGR,MULTADO,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Director General,0.08,1
+449,DIF,SUSPENSION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Director,2.0,1
+450,SHCP,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Director General Adjunto,4.0,1
+451,CNDH,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Subdirector,3.0,1
+452,PGR,INDEMNIZACIÓN RESARCITORIA,OBRA FUERA DE TIEMPO,Gasto Público,Hombre,Subdirector,4.0,1
+453,SHCP,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Director General Adjunto,0.08,1
+454,CNDH,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Hombre,Director,0.08,1
+455,IMSS,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Hombre,Subdirector,2.0,1
+456,CNDH,MULTADO,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Hombre,Jefe de departamento,2.0,1
+457,DIF,INDEMNIZACIÓN RESARCITORIA,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Hombre,Director,4.0,1
+458,IMSS,DESTITUCION,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Jefe de departamento,4.0,1
+459,IMSS,INHABILITADO,OBRA FUERA DE TIEMPO,Gasto Público,Hombre,Titular de Unidad,0.08,1
+460,PRONIF,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Titular de Unidad,3.0,1
+461,CNDH,SANCIÓN ECONÓMICA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Titular de Unidad,2.0,1
+462,DIF,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Gasto Público,Hombre,Director General Adjunto,3.0,1
+463,CNDH,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Hombre,Director General Adjunto,2.0,1
+464,CNDH,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Titular de Unidad,3.0,1
+465,SHCP,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Subdirector,4.0,1
+466,PGR,SANCIÓN ECONÓMICA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Subdirector,2.0,1
+467,SHCP,SANCIÓN ECONÓMICA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Jefe de departamento,2.0,1
+468,CNDH,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Director,3.0,1
+469,PGR,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Subdirector,4.0,1
+470,DIF,DESTITUCION,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Director General,2.0,1
+471,IMSS,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Director,0.08,1
+472,PGR,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Subdirector,2.0,1
+473,DIF,INHABILITADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Director General Adjunto,0.08,1
+474,IMSS,SUSPENSION,OBRA FUERA DE TIEMPO,Gasto Público,Hombre,Jefe de departamento,0.08,1
+475,PRONIF,SUSPENSION,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Director General,0.08,1
+476,PGR,SUSPENSION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Director General,4.0,1
+477,PGR,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Jefe de departamento,4.0,1
+478,SHCP,DESTITUCION,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Titular de Unidad,4.0,1
+479,DIF,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Hombre,Director General,4.0,1
+480,PRONIF,INDEMNIZACIÓN RESARCITORIA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Titular de Unidad,2.0,1
+481,CNDH,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Director General Adjunto,3.0,1
+482,PRONIF,MULTADO,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Director General Adjunto,4.0,1
+483,PRONIF,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Titular de Unidad,3.0,1
+484,DIF,INHABILITADO,OBRA FUERA DE TIEMPO,Gasto Público,Hombre,Director General Adjunto,3.0,1
+485,SHCP,SUSPENSION,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Hombre,Director,2.0,1
+486,PGR,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Director General,4.0,1
+487,PGR,SUSPENSION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Titular de Unidad,0.08,1
+488,SHCP,INHABILITADO,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Director General Adjunto,2.0,1
+489,CNDH,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Hombre,Subdirector,3.0,1
+490,CNDH,MULTADO,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Hombre,Titular de Unidad,2.0,1
+491,SHCP,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Director General Adjunto,3.0,1
+492,IMSS,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Hombre,Subdirector,3.0,1
+493,IMSS,INDEMNIZACIÓN RESARCITORIA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Jefe de departamento,2.0,1
+494,PGR,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Director General Adjunto,4.0,1
+495,IMSS,DESTITUCION,NO FORMALIZACION DE CONTRATO,Gasto Público,Hombre,Director General,0.08,1
+496,DIF,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Hombre,Director General Adjunto,2.0,1
+497,SHCP,INHABILITADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Subdirector,0.08,1
+498,IMSS,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Gasto Público,Mujer,Subdirector,0.08,1
+499,SHCP,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Hombre,Director General Adjunto,3.0,1
+500,SHCP,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Jefe de departamento,2.0,1
+501,SHCP,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Gasto Público,Hombre,Jefe de departamento,3.0,1
+502,IMSS,SUSPENSION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Jefe de departamento,2.0,1
+503,PGR,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Jefe de departamento,3.0,1
+504,PRONIF,SUSPENSION,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Subdirector,2.0,1
+505,DIF,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Director General Adjunto,4.0,1
+506,SHCP,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Director General,0.08,1
+507,IMSS,INHABILITADO,OBRA FUERA DE TIEMPO,Gasto Público,Mujer,Director General,3.0,1
+508,PRONIF,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Director,3.0,1
+509,IMSS,INDEMNIZACIÓN RESARCITORIA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Director,3.0,1
+510,DIF,SUSPENSION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Titular de Unidad,2.0,1
+511,PRONIF,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Director General,3.0,1
+512,SHCP,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Jefe de departamento,0.08,1
+513,PGR,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Titular de Unidad,4.0,1
+514,CNDH,INHABILITADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Jefe de departamento,0.08,1
+515,SHCP,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Director General,3.0,1
+516,CNDH,SUSPENSION,OBRA FUERA DE TIEMPO,Gasto Público,Mujer,Director General,0.08,1
+517,PRONIF,SUSPENSION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Subdirector,2.0,1
+518,DIF,SUSPENSION,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Titular de Unidad,2.0,1
+519,DIF,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Subdirector,4.0,1
+520,CNDH,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Director,3.0,1
+521,SHCP,SUSPENSION,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Jefe de departamento,0.08,1
+522,SHCP,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Director General Adjunto,3.0,1
+523,SHCP,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Director,2.0,1
+524,PGR,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Subdirector,3.0,1
+525,PRONIF,SUSPENSION,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Director General,2.0,1
+526,IMSS,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Director General,0.08,1
+527,IMSS,DESTITUCION,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Director General Adjunto,2.0,1
+528,CNDH,DESTITUCION,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Hombre,Titular de Unidad,2.0,1
+529,SHCP,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Director General,2.0,1
+530,CNDH,INHABILITADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Director General,0.08,1
+531,CNDH,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Jefe de departamento,4.0,1
+532,SHCP,DESTITUCION,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Hombre,Jefe de departamento,3.0,1
+533,DIF,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Director General Adjunto,2.0,1
+534,PRONIF,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Titular de Unidad,2.0,1
+535,DIF,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Director,0.08,1
+536,IMSS,DESTITUCION,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Jefe de departamento,0.08,1
+537,SHCP,INDEMNIZACIÓN RESARCITORIA,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Titular de Unidad,3.0,1
+538,CNDH,SUSPENSION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Director,2.0,1
+539,PRONIF,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Hombre,Titular de Unidad,2.0,1
+540,PRONIF,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Jefe de departamento,2.0,1
+541,PGR,SUSPENSION,OBRA FUERA DE TIEMPO,Gasto Público,Mujer,Jefe de departamento,4.0,1
+542,SHCP,MULTADO,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Titular de Unidad,3.0,1
+543,SHCP,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Subdirector,4.0,1
+544,IMSS,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Subdirector,2.0,1
+545,CNDH,MULTADO,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Hombre,Jefe de departamento,2.0,1
+546,DIF,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Director General Adjunto,0.08,1
+547,SHCP,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Hombre,Subdirector,3.0,1
+548,IMSS,SUSPENSION,NO FORMALIZACION DE CONTRATO,Gasto Público,Hombre,Director,3.0,1
+549,PRONIF,DESTITUCION,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Director General,4.0,1
+550,DIF,SANCIÓN ECONÓMICA,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Subdirector,4.0,1
+551,IMSS,SUSPENSION,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Jefe de departamento,2.0,1
+552,CNDH,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Director General,4.0,1
+553,IMSS,MULTADO,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Director General,0.08,1
+554,DIF,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Director General,0.08,1
+555,SHCP,DESTITUCION,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Hombre,Subdirector,2.0,1
+556,PRONIF,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Hombre,Director,0.08,1
+557,PGR,INHABILITADO,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Hombre,Director General Adjunto,4.0,1
+558,CNDH,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Jefe de departamento,3.0,1
+559,PGR,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Director General,4.0,1
+560,DIF,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Mujer,Director,0.08,1
+561,DIF,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Jefe de departamento,4.0,1
+562,IMSS,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Titular de Unidad,4.0,1
+563,PGR,INDEMNIZACIÓN RESARCITORIA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Director General Adjunto,3.0,1
+564,IMSS,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Hombre,Director General Adjunto,2.0,1
+565,CNDH,ACTA ADMINISTRATIVA,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Mujer,Director,2.0,1
+566,DIF,SANCIÓN ECONÓMICA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Hombre,Director,3.0,1
+567,DIF,SANCIÓN ECONÓMICA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Titular de Unidad,3.0,1
+568,SHCP,MULTADO,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Hombre,Jefe de departamento,2.0,1
+569,IMSS,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Jefe de departamento,0.08,1
+570,PRONIF,MULTADO,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Mujer,Director General,3.0,1
+571,DIF,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Director General,3.0,1
+572,IMSS,SUSPENSION,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Director,2.0,1
+573,PGR,SUSPENSION,OBRA FUERA DE TIEMPO,Gasto Público,Hombre,Director General,4.0,1
+574,DIF,DESTITUCION,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Hombre,Titular de Unidad,4.0,1
+575,PGR,INHABILITADO,OBRA FUERA DE TIEMPO,Gasto Público,Mujer,Director General,0.08,1
+576,PGR,INHABILITADO,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Hombre,Director General Adjunto,0.08,1
+577,PRONIF,SUSPENSION,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Subdirector,3.0,1
+578,CNDH,INHABILITADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Jefe de departamento,3.0,1
+579,SHCP,INDEMNIZACIÓN RESARCITORIA,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Hombre,Subdirector,4.0,1
+580,DIF,INDEMNIZACIÓN RESARCITORIA,OBRA FUERA DE TIEMPO,Comunicación y Transporte,Mujer,Jefe de departamento,4.0,1
+581,DIF,INHABILITADO,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Director General,4.0,1
+582,CNDH,DESTITUCION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Hombre,Director,2.0,1
+583,PRONIF,MULTADO,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Subdirector,0.08,1
+584,DIF,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Gasto Público,Mujer,Jefe de departamento,3.0,1
+585,SHCP,ACTA ADMINISTRATIVA,OBRA FUERA DE TIEMPO,Gobernanza y Justicia,Mujer,Subdirector,0.08,1
+586,IMSS,ACTA ADMINISTRATIVA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Comunicación y Transporte,Mujer,Director,0.08,1
+587,PRONIF,INDEMNIZACIÓN RESARCITORIA,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gasto Público,Mujer,Director,2.0,1
+588,SHCP,MULTADO,NO FORMALIZACION DE CONTRATO,Gasto Público,Mujer,Subdirector,2.0,1
+589,CNDH,INDEMNIZACIÓN RESARCITORIA,OBRA FUERA DE TIEMPO,Gasto Público,Mujer,Director General,3.0,1
+590,IMSS,SUSPENSION,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gobernanza y Justicia,Mujer,Jefe de departamento,3.0,1
+591,SHCP,ACTA ADMINISTRATIVA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Comunicación y Transporte,Hombre,Jefe de departamento,2.0,1
+592,PGR,MULTADO,FALTA DE GARANTÍA DE CUMPLIMIENTO,Gobernanza y Justicia,Mujer,Titular de Unidad,2.0,1
+593,SHCP,MULTADO,NO FORMALIZACION DE CONTRATO,Gobernanza y Justicia,Hombre,Titular de Unidad,3.0,1
+594,DIF,DESTITUCION,NO FORMALIZACION DE CONTRATO,Comunicación y Transporte,Hombre,Director General,3.0,1
+595,CNDH,INDEMNIZACIÓN RESARCITORIA,PROPORCIÓN DE INFORMACIÓN NO VERAZ,Gasto Público,Mujer,Subdirector,2.0,1
