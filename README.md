@@ -8,9 +8,10 @@ Proyecto para el Datatón Anticorrupción 2021 por la Plataforma Digital Naciona
 
 ## Instrucciones para correr el archivo
 
-1. Abrir el archivo app.R
-2. Seleccionar la opción " Run App "
-3. Interactuar con la app
+1. Abrir la carpeta R
+2. Abrir el archivo app.R
+3. Seleccionar la opción " Run App "
+4. Interactuar con la app
 
 
 
